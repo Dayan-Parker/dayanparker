@@ -1,17 +1,17 @@
 # Setup
 title:               Dayan Parker
 tagline:             'Project Portfolio'
-description:         'heme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         ''
 url:                 https://dayan-parker.github.io/dayanparker/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
-author:
-  name:              Dayan Parker
-  url:               [LinkedIn](www.linkedin.com/in/dayanparker) 
-  email:             parkerdayan@gmail.com
+author:             
+  name:             "Dayan Parker"
+  url:              "https://www.linkedin.com/in/dayanparker"
+  email:            "parkerdayan@gmail.com"
 
 # Gems
 plugins:
