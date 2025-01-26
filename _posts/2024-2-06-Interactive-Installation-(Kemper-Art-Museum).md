@@ -9,7 +9,7 @@ The installation integrates hardware and software with an Arduino microcontrolle
 <figure style="text-align: center;">
   <video controls 
          style="width:100%; height:auto;">
-    <source src="demo.mp4" type="video/mp4">
+    <source src="https://dayan-parker.github.io/dayanparker/images/demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption style="margin-top: 10px; font-style: italic; color: #555;">
