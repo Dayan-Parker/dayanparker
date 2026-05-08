@@ -1,7 +1,8 @@
 # Setup
 title:               Dayan Parker
 tagline:             'Project Portfolio'
-description:         ''
+description:         'EE Portfolio — WashU St. Louis'
+excerpt_separator:   "<!--more-->"
 url:                 https://dayan-parker.github.io/dayanparker/
 baseurl:             ''
 paginate:            5
