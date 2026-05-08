@@ -14,6 +14,11 @@ author:
   url:              "https://www.linkedin.com/in/dayanparker"
   email:            "parkerdayan@gmail.com"
 
+# Files Jekyll should not build or serve
+exclude:
+  - CLAUDE.md
+  - README.md
+
 # Gems
 plugins:
   - jekyll-paginate
